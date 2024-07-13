@@ -8,13 +8,13 @@ export const Bio = {
   name: "Kunal Jadhav",
   roles: ["Frontend Developer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: "https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=sharing",
+  resume: " ",
   linkedin: "https://www.linkedin.com/in/kunaljadhav4295/",
   github: "https://github.com/Itsbitscoder/",
   leetcode: "https://leetcode.com/u/KunalJadhav42/",
   geeksforgeeks: "https://www.geeksforgeeks.org/user/kunaljadhav4295/",
   X: "https://x.com/Kunaljadhav02",
-  whatsapp: "https://wa.me/9920655685?text=Hi Anshul! I'd like to know more about your services."
+  whatsapp: "https://wa.me/9920655685?text=Hi Kunal! I'd like to know more about your services."
 };
 
 
