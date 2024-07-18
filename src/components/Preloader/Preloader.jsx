@@ -1,10 +1,12 @@
-import { Image, PreloaderContainer } from "./PreloaderStyleComponents";
+import { Image, PreloaderContainer,  } from "./PreloaderStyleComponents";
 import { PreloaderImage } from '../../assets/export';
 
 const Preloader = () => {
     return (
         <PreloaderContainer id="pre-loader">
-            <Image src={PreloaderImage} />
+            
+                <Image src={PreloaderImage} />
+            
         </PreloaderContainer>
     )
 }

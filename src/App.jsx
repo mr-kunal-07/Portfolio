@@ -12,7 +12,7 @@ const App = () => {
     setTimeout(() => {
       document.getElementById("pre-loader").classList.add('hidden');
       setScreenLoading(false);
-    }, 1000);
+    }, 1500);
   }, []);
 
 
