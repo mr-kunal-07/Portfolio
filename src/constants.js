@@ -8,7 +8,7 @@ export const Bio = {
   name: "Kunal Jadhav",
   roles: ["Frontend Developer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: "https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=sharing",
+  resume: " ",
   linkedin: "https://www.linkedin.com/in/kunaljadhav4295/",
   github: "https://github.com/Itsbitscoder/",
   leetcode: "https://leetcode.com/u/KunalJadhav42/",
@@ -102,4 +102,41 @@ export const projects = [
     github: "https://github.com/Itsbitscoder/StudyZone",
     link: "https://studyzone42.vercel.app/index.html",
   },
+<<<<<<< HEAD
 ];
+=======
+  // {
+  //   title: "Anshul-Estate WebApp",
+  //   description: "Developed a fully responsive Real-Estate web application using Vite JS, Node JS, Express JS, MongoDB, Firebase, Redux, Tailwind CSS. Implemented JWT for secure authentication and bcryptjs for password encryption, enhancing the security and integrity of user data. Utilized Firebase for user authentication and MongoDB for efficient and scalable data storage, ensuring robust backend support.",
+  //   image: AnshulEstate,
+  //   tags: ["Vite JS", "Node JS", "Express JS", "MongoDB", "Firebase", "Redux", "Tailwind CSS"],
+  //   github: "https://github.com/anshulgupta48/Anshul-Estate-WebApp",
+  //   link: "https://mern-estate-webapp.onrender.com/",
+  // },
+  // {
+  //   title: "Apple IPhone Website",
+  //   description: "Developed a Apple IPhone Website Clone that offers a Unique and Engaging Experience to their users. It Has 5 Sections - Hero, Highlights, IPhone Model, Features, How it Works Section. It is a fully responsive website developed using Vite JS, Tailwind CSS, GSAP and Three JS.. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, it ensures a smooth browsing experience.",
+  //   image: AppleIPhone,
+  //   tags: ["Vite JS", "Tailwind CSS", "GSAP", "Three JS"],
+  //   github: "https://github.com/anshulgupta48/Apple-IPhone-Clone",
+  //   link: "https://apple-iphone-website-one.vercel.app/",
+  // },
+  // {
+  //   title: "Hoobank Website",
+  //   description: "Developed a Real-World Bank Website named 'Hoobank' that offers a Unique and Engaging Experience to their users. It Has 4 Sections - Home, Features, Products & Clients Section. 'Hoobank' is a fully responsive website developed using Vite JS and Tailwind CSS. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, 'Hoobank' ensures a smooth browsing experience.",
+  //   image: HooBank,
+  //   tags: ["Vite JS", "Tailwind CSS"],
+  //   github: "https://github.com/anshulgupta48/Hoobank-Website",
+  //   link: "https://anshulgupta48.github.io/Hoobank-Website",
+  // },
+  // {
+  //   title: "GPT3-OpenAI Website",
+  //   description: "'GPT3-OpenAI' is a Real-World AI-Tool Website that offers you a collection of informative articles that dive deep into the world of AI. It Has 5 Sections - Home, What is GPT3, Features, Possibility & Blogs Section from Where is Created to Provide a Unique and Engaging experience. 'GPT3-OpenAI' is a fully responsive website developed using React JS and Sass. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, 'GPT3-OpenAI' ensures a smooth browsing experience.",
+  //   image: Gpt3,
+  //   tags: ["React JS", "Sass"],
+  //   github: "https://github.com/anshulgupta48/GPT3-OpenAI-Website",
+  //   link: "https://anshulgupta48.github.io/GPT3-OpenAI-Website",
+  // },
+
+];
+>>>>>>> 888b53d90e18122659c33abe5da23806ede1b9d7
