@@ -1,7 +1,7 @@
 import { HTML, CSS, JavaScript, ReactJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
 // import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { CSMU } from './assets/export';
-import { StudyZone } from './assets/export';
+import { StudyZone, SaasProject } from './assets/export';
 
 
 export const Bio = {
@@ -98,18 +98,18 @@ export const projects = [
     title: "StudyZone Learning Website",
     description: "'StudyZone' is a Real-World Educational Website that offers a comprehensive learning experience for users. 'StudyZone' is a fully responsive website developed using HTML, CSS, and JavaScript. It has 4 dynamic pages including Home, About, Courses, and Contact. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, 'StudyZone' ensures a smooth browsing experience.",
     image: StudyZone,
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["HTML", "CSS", "JavaScript", "Vercel"],
     github: "https://github.com/Itsbitscoder/StudyZone",
     link: "https://studyzone42.vercel.app/index.html",
   },
-  // {
-  //   title: "Anshul-Estate WebApp",
-  //   description: "Developed a fully responsive Real-Estate web application using Vite JS, Node JS, Express JS, MongoDB, Firebase, Redux, Tailwind CSS. Implemented JWT for secure authentication and bcryptjs for password encryption, enhancing the security and integrity of user data. Utilized Firebase for user authentication and MongoDB for efficient and scalable data storage, ensuring robust backend support.",
-  //   image: AnshulEstate,
-  //   tags: ["Vite JS", "Node JS", "Express JS", "MongoDB", "Firebase", "Redux", "Tailwind CSS"],
-  //   github: "https://github.com/anshulgupta48/Anshul-Estate-WebApp",
-  //   link: "https://mern-estate-webapp.onrender.com/",
-  // },
+  {
+    title: "Saas Landing Page",
+    description: "I developed a fully responsive SaaS landing page using Next.js, Tailwind CSS, TypeScript, and Framer Motion. Next.js ensures optimal performance and SEO, while Tailwind CSS allows for efficient and consistent styling. TypeScript enhances code quality and maintainability, and Framer Motion adds smooth, visually appealing animations. This combination results in a high-performance, visually engaging web application.",
+    image: SaasProject,
+    tags: ["Next JS", "TypeScript", "Vercel", "Framer-Motion", "Tailwind CSS"],
+    github: "https://github.com/Itsbitscoder/Saas-Landing-Page",
+    link: "https://saaslandingpage42.vercel.app/",
+  },
   // {
   //   title: "Apple IPhone Website",
   //   description: "Developed a Apple IPhone Website Clone that offers a Unique and Engaging Experience to their users. It Has 5 Sections - Hero, Highlights, IPhone Model, Features, How it Works Section. It is a fully responsive website developed using Vite JS, Tailwind CSS, GSAP and Three JS.. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, it ensures a smooth browsing experience.",

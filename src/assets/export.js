@@ -37,6 +37,7 @@ export { default as Figma } from './skills/figma.svg';
 // <======== Exporting Projects-Section Images ========>
 
 export { default as StudyZone } from './projects/StudyZone.png';
+export { default as SaasProject } from './projects/SaasProject.png';
 
 
 // <======== Exporting Education-Section Images ========>
