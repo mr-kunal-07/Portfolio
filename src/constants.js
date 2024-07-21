@@ -1,4 +1,4 @@
-import { HTML, CSS, JavaScript, ReactJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
+import { HTML, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
 // import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { CSMU } from './assets/export';
 import { StudyZone, SaasProject } from './assets/export';
