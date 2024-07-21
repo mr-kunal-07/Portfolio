@@ -27,9 +27,9 @@ export const skills = [
       { name: "JavaScript", image: JavaScript },
       { name: "React JS", image: ReactJS },
       { name: "Redux", image: Redux },
-      // { name: "Next JS", image: NextJS },
+      { name: "Next JS", image: NextJS },
       { name: "GSAP", image: GSAP },
-      // { name: "SASS", image: SASS },
+      { name: "SASS", image: SASS },
       // { name: "Bootstrap", image: Bootstrap },
       { name: "Tailwind CSS", image: TailwindCSS },
       { name: "Material UI", image: MaterialUI }
@@ -102,7 +102,6 @@ export const projects = [
     github: "https://github.com/Itsbitscoder/StudyZone",
     link: "https://studyzone42.vercel.app/index.html",
   },
-<<<<<<< HEAD
   {
     title: "Saas Landing Page",
     description: "I developed a fully responsive SaaS landing page using Next.js, Tailwind CSS, TypeScript, and Framer Motion. Next.js ensures optimal performance and SEO, while Tailwind CSS allows for efficient and consistent styling. TypeScript enhances code quality and maintainability, and Framer Motion adds smooth, visually appealing animations. This combination results in a high-performance, visually engaging web application.",
@@ -111,7 +110,7 @@ export const projects = [
     github: "https://github.com/Itsbitscoder/Saas-Landing-Page",
     link: "https://saaslandingpage42.vercel.app/",
   },
-=======
+
   // {
   //   title: "Anshul-Estate WebApp",
   //   description: "Developed a fully responsive Real-Estate web application using Vite JS, Node JS, Express JS, MongoDB, Firebase, Redux, Tailwind CSS. Implemented JWT for secure authentication and bcryptjs for password encryption, enhancing the security and integrity of user data. Utilized Firebase for user authentication and MongoDB for efficient and scalable data storage, ensuring robust backend support.",
@@ -120,7 +119,7 @@ export const projects = [
   //   github: "https://github.com/anshulgupta48/Anshul-Estate-WebApp",
   //   link: "https://mern-estate-webapp.onrender.com/",
   // },
->>>>>>> 86988cb1eff56a4160a3aef5093ec8b2bdabca84
+
   // {
   //   title: "Apple IPhone Website",
   //   description: "Developed a Apple IPhone Website Clone that offers a Unique and Engaging Experience to their users. It Has 5 Sections - Hero, Highlights, IPhone Model, Features, How it Works Section. It is a fully responsive website developed using Vite JS, Tailwind CSS, GSAP and Three JS.. Regardless of the device you use, be it a desktop computer, tablet, or smartphone, it ensures a smooth browsing experience.",
