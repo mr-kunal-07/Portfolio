@@ -102,9 +102,6 @@ export const projects = [
     github: "https://github.com/Itsbitscoder/StudyZone",
     link: "https://studyzone42.vercel.app/index.html",
   },
-<<<<<<< HEAD
-];
-=======
   // {
   //   title: "Anshul-Estate WebApp",
   //   description: "Developed a fully responsive Real-Estate web application using Vite JS, Node JS, Express JS, MongoDB, Firebase, Redux, Tailwind CSS. Implemented JWT for secure authentication and bcryptjs for password encryption, enhancing the security and integrity of user data. Utilized Firebase for user authentication and MongoDB for efficient and scalable data storage, ensuring robust backend support.",
@@ -139,4 +136,3 @@ export const projects = [
   // },
 
 ];
->>>>>>> 888b53d90e18122659c33abe5da23806ede1b9d7
