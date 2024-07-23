@@ -10,13 +10,14 @@ export { default as AboutImage } from './about/Kunal-Jadhav.jpg';
 export { default as HTML } from './skills/html.png';
 export { default as CSS } from './skills/css.png';
 export { default as JavaScript } from './skills/javascript.png';
-export { default as SASS } from './skills/sass.svg';
+// export { default as SASS } from './skills/sass.svg';
 export { default as ReactJS } from './skills/react-js.svg';
 export { default as Redux } from './skills/redux.svg';
 export { default as NextJS } from './skills/next-js.png';
 export { default as GSAP } from './skills/gsap.svg';
 export { default as TailwindCSS } from './skills/tailwind-css.png';
 export { default as MaterialUI } from './skills/material-ui.png';
+export { default as TypeScript } from './skills/TypeScript.png';
 
 export { default as NodeJS } from './skills/node-js.svg';
 export { default as ExpressJS } from './skills/express-js.png';

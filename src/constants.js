@@ -1,4 +1,4 @@
-import { HTML, CSS, JavaScript, SASS, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
+import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
 // import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { CSMU } from './assets/export';
 import { StudyZone, SaasProject } from './assets/export';
@@ -28,11 +28,12 @@ export const skills = [
       { name: "React JS", image: ReactJS },
       { name: "Redux", image: Redux },
       { name: "Next JS", image: NextJS },
+      { name: "TypeScript", image: TypeScript },
       { name: "GSAP", image: GSAP },
-      { name: "SASS", image: SASS },
+      // { name: "SASS", image: SASS },
       // { name: "Bootstrap", image: Bootstrap },
       { name: "Tailwind CSS", image: TailwindCSS },
-      { name: "Material UI", image: MaterialUI }
+      { name: "Material UI", image: MaterialUI },
     ]
   },
 
@@ -41,8 +42,8 @@ export const skills = [
     skills: [
       { name: "Node JS", image: NodeJS },
       { name: "Express JS", image: ExpressJS },
-      { name: "MongoDB", image: MongoDB },
-      { name: "Firebase", image: Firebase }
+      // { name: "MongoDB", image: MongoDB },
+      // { name: "Firebase", image: Firebase }
     ]
   },
 
@@ -50,7 +51,7 @@ export const skills = [
     title: "Languages",
     skills: [
       { name: "C", image: C },
-      { name: "C++", image: CPP },
+      // { name: "C++", image: CPP },
       { name: "JavaScript", image: JavaScript },
     ]
   },
