@@ -8,7 +8,7 @@ export const Bio = {
   name: "Kunal Jadhav",
   roles: ["Frontend Developer", "Freelancer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: " ",
+  resume: "https://docs.google.com/document/d/e/2PACX-1vQ50n-gnyiK_NyUKWiKNT-VVqGuum0wT1WHxYhgsRaXm3tsLQimH03qmp5KfFW6Ps_Tq-2fc6waclJh/pub",
   linkedin: "https://www.linkedin.com/in/kunaljadhav4295/",
   github: "https://github.com/Itsbitscoder/",
   leetcode: "https://leetcode.com/u/KunalJadhav42/",
