@@ -17,6 +17,7 @@ export { default as NextJS } from './skills/next-js.png';
 export { default as GSAP } from './skills/gsap.svg';
 export { default as TailwindCSS } from './skills/tailwind-css.png';
 export { default as MaterialUI } from './skills/material-ui.png';
+export { default as Bootstrap } from './skills/bootstrap.png';
 export { default as TypeScript } from './skills/TypeScript.png';
 
 export { default as NodeJS } from './skills/node-js.svg';

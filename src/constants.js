@@ -1,4 +1,4 @@
-import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma } from './assets/export';
+import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma, Bootstrap } from './assets/export';
 // import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { CSMU } from './assets/export';
 import { StudyZone, SaasProject } from './assets/export';
@@ -6,11 +6,11 @@ import { StudyZone, SaasProject } from './assets/export';
 
 export const Bio = {
   name: "Kunal Jadhav",
-  roles: ["Frontend Developer", "Freelancer"],
+  roles: ["Full Stack Developer", "Web Designer", "Open Source Contributor", ],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  resume: "https://docs.google.com/document/d/e/2PACX-1vQ50n-gnyiK_NyUKWiKNT-VVqGuum0wT1WHxYhgsRaXm3tsLQimH03qmp5KfFW6Ps_Tq-2fc6waclJh/pub",
+  resume: "./Kunal.pdf",
   linkedin: "https://www.linkedin.com/in/kunaljadhav4295/",
-  github: "https://github.com/Itsbitscoder/",
+  github: "https://github.com/mr-kunal-07/",
   leetcode: "https://leetcode.com/u/KunalJadhav42/",
   geeksforgeeks: "https://www.geeksforgeeks.org/user/kunaljadhav4295/",
   X: "https://x.com/Kunaljadhav02",
@@ -28,10 +28,10 @@ export const skills = [
       { name: "React JS", image: ReactJS },
       { name: "Redux", image: Redux },
       { name: "Next JS", image: NextJS },
-      { name: "TypeScript", image: TypeScript },
+      // { name: "TypeScript", image: TypeScript },
       { name: "GSAP", image: GSAP },
       // { name: "SASS", image: SASS },
-      // { name: "Bootstrap", image: Bootstrap },
+      { name: "Bootstrap", image: Bootstrap },
       { name: "Tailwind CSS", image: TailwindCSS },
       { name: "Material UI", image: MaterialUI },
     ]
@@ -42,8 +42,8 @@ export const skills = [
     skills: [
       { name: "Node JS", image: NodeJS },
       { name: "Express JS", image: ExpressJS },
-      // { name: "MongoDB", image: MongoDB },
-      // { name: "Firebase", image: Firebase }
+      { name: "MongoDB", image: MongoDB },
+      { name: "Firebase", image: Firebase }
     ]
   },
 
@@ -51,7 +51,7 @@ export const skills = [
     title: "Languages",
     skills: [
       { name: "C", image: C },
-      // { name: "C++", image: CPP },
+      { name: "C++", image: CPP },
       { name: "JavaScript", image: JavaScript },
     ]
   },
