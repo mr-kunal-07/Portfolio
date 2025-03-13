@@ -17,6 +17,7 @@ export { default as NextJS } from './skills/next-js.png';
 export { default as GSAP } from './skills/gsap.svg';
 export { default as TailwindCSS } from './skills/tailwind-css.png';
 export { default as MaterialUI } from './skills/material-ui.png';
+export { default as Bootstrap } from './skills/bootstrap.png';
 export { default as TypeScript } from './skills/TypeScript.png';
 
 export { default as NodeJS } from './skills/node-js.svg';
@@ -40,6 +41,8 @@ export { default as Figma } from './skills/figma.svg';
 
 export { default as StudyZone } from './projects/StudyZone.png';
 export { default as SaasProject } from './projects/SaasProject.png';
+export { default as Chat } from './projects/chat.png';
+
 
 
 // <======== Exporting Education-Section Images ========>
