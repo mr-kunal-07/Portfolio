@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP, Git, Github, VSCode, Figma, Bootstrap, Chat } from './assets/export';
-=======
-import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma, Bootstrap } from './assets/export';
->>>>>>> 5eb3e42fa927bfd39b03bb05b78d4b2a911be18e
+import { HTML, TypeScript, CSS, JavaScript, ReactJS, NextJS, Redux, GSAP, TailwindCSS, MaterialUI, NodeJS, ExpressJS, MongoDB, Firebase, C, CPP,Git, Github, VSCode, Figma, Bootstrap, Chat } from './assets/export';
 // import { FoundationalAI, Webexcep, GirlScript, Hack2Skill } from './assets/export';
 import { CSMU } from './assets/export';
 import { StudyZone, SaasProject } from './assets/export';
@@ -10,11 +6,8 @@ import { StudyZone, SaasProject } from './assets/export';
 
 export const Bio = {
   name: "Kunal Jadhav",
-<<<<<<< HEAD
   roles: ["Full Stack Developer", "Web Designer", "Open Source Contributor",],
-=======
-  roles: ["Full Stack Developer", "Web Designer", "Open Source Contributor", ],
->>>>>>> 5eb3e42fa927bfd39b03bb05b78d4b2a911be18e
+  // roles: ["Full Stack Developer", "Web Designer", "Open Source Contributor", ],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   resume: "./Kunal.pdf",
   linkedin: "https://www.linkedin.com/in/kunaljadhav4295/",
